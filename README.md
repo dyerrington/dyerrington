@@ -27,4 +27,4 @@ When it comes to my professional interests, my favorite topics include machine l
 
 ![](https://snipboard.io/ETqjIZ.jpg)
 
-Because I'm an independent contractor/consultant, my income is dependent on how much time I can bill.  It means that I have to be mindful of how much free time I spend creating fun projects, open training sessions, and video content that are essentially "off the books."  Sponsorship allows me a larger window of time per month to say "yes" to projects with an educational end-goal in mind to share on Github!
+My next big project that is close to being released is an open source library of content for anyone looking to learn Python for data science.  I will post details sometime this Feb 2022.
