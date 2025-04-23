@@ -1,5 +1,5 @@
 ### Hi there 👋
-Originally I am from Alaska and live in the San Francisco Bay area for almost 20 years.  Since 2015, I've been teaching people machine learning and Python both working at a mainstream bootcamp-type school and consulting for large private schools.  Before 2020, I managed data science at a mobile gaming analytics startup from a hands-on role building prototype applications and deploying machine learning models at scale.  
+Originally I am from Alaska and live in the San Francisco Bay area for almost 20 years.  Former educator and NLP subject matter expert, teaching people how to work machine learning, Python, and langauge models.
 
 ![](https://snipboard.io/GsZik2.jpg)
 
