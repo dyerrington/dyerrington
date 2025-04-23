@@ -11,7 +11,7 @@ When it comes to my data interests, my favorite topics include NLP and large lan
 - Cleaning up a Django project that hosts a topic model about the compendium of rap music
 - Fun experiments with ML and magenta.js
 - Building an app to help life-sciences people find weather anomalies
-<br><br>![](https://snipboard.io/ETqjIZ.jpg)<br><br>My next big project that is close to being released is an open source library of content for anyone looking to learn Python for data science.  I will post details sometime this Feb 2022.<br>
+<br><br>![](https://snipboard.io/ETqjIZ.jpg)<br><br>My next big project that is close to being released is an open source library (non-commercial) of content for anyone looking to learn Python for data science.<br>
 
 
 ## 🌐 Socials:
